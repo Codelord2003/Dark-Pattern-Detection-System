@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/1l0GI6WJjtVe8bNvyyoB1k4IKpXHM79uW?usp=sharing
+
+The above program utilizes the YOLOv5 (You Only Look Once version 5) object detection model, which has been trained on a custom dataset created specifically for identifying visual patterns associated with dark patterns. The dataset includes examples of highlighted boxes, misleading buttons, intrusive cookie pop-ups, fake banners, and other deceptive elements commonly used to manipulate user behavior on websites. YOLOv5 efficiently identifies and highlights these elements in real-time, providing a robust visual analysis of web page content.
+
+
