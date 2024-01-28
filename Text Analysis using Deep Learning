@@ -1,0 +1,8 @@
+https://drive.google.com/drive/folders/1WGbJpwWdLn67iBvLCtzC2GsXahky0wqw?usp=sharing
+
+1. EasyOCR for Text Extraction:
+In addition to visual pattern recognition, our program employs EasyOCR, a model specialized in Optical Character Recognition (OCR), to extract textual content from web pages. This step is crucial for detecting dark patterns that rely on deceptive text elements. EasyOCR accurately retrieves text information from various sources on the webpage, ensuring a comprehensive analysis of the content.
+
+2. DistilBERT for Textual Pattern Analysis:
+The extracted text is then fed into a custom-trained DistilBERT model. DistilBERT is a compact version of the BERT (Bidirectional Encoder Representations from Transformers) model, known for its natural language processing capabilities. Our DistilBERT model has been fine-tuned on a custom dataset specifically curated for identifying and classifying different types of dark patterns present in text. The model analyzes the linguistic structure, semantics, and context of the extracted text to determine the presence and nature of deceptive practices.
+
